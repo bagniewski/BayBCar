@@ -12,7 +12,7 @@ Depending on the input variables, one of 8 BayBCar formulations will be selected
 * W3DI: 3 predictors (δ13C_dic, Depth, SIC)
 * W3OI: 3 predictors (δ13C_dic, Omega, SIC)  
 
-For a detailed description of BayBCar PSMs please see: Bagniewski, W., Osman, M., Aquino-López, M., Rathburn, A., & Muschitiello, F. (2026). BayBCar: A Bayesian calibration model for δ13C in benthic foraminifera. Paleoceanography and Paleoclimatology.
+For a detailed description of BayBCar PSMs please see: Bagniewski, W., Osman, M., Aquino-López, M., Rathburn, A., & Muschitiello, F. (2026). BayBCar: A Bayesian calibration model for δ13C in benthic foraminifera. *Paleoceanography and Paleoclimatology* (in press).
 
 For a Python version of BayBCar, see [PyBayBCar](https://github.com/bagniewski/PyBayBCar).
 
