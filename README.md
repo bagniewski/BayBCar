@@ -48,8 +48,8 @@ Prediction direction (`"forward"` or `"inverse"`) can be specified as the last i
   - `d13C_dic`: δ13C of dissolved inorganic carbon (permil)
   - `d13C_cib`: δ13C of Cibicidoides foraminifera (permil, C. wuellerstorfi by default)
 - At least one of these:
-  - `Depth`
-  - `Omega`
+  - `Depth`: Water depth (meters)
+  - `Omega`: Calcite saturation state
 
 ### Optional Inputs
 - `Depth`: Water depth (meters)  
