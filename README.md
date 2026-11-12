@@ -1,6 +1,8 @@
 # BayBCar
 
-BayBCar is a class of Bayesian proxy system models (PSMs) for benthic δ13C, incorporating the effects of carbonate chemistry, sea ice concentration, and species-specific differences. It enables probabilistic forward and inverse modelling of benthic foraminiferal δ13C and δ13C of DIC, respectively.
+BayBCar is a class of Bayesian proxy system models (PSMs) for benthic δ13C, incorporating the effects of carbonate chemistry, sea ice concentration, and species-specific differences. 
+
+This repository contains a MATLAB function, which uses BayBCar PSM calibrations to perform probabilistic forward and inverse modelling of benthic foraminiferal δ13C and δ13C of DIC, respectively.
 
 Depending on the input variables, one of 8 BayBCar formulations will be selected:
 * A3Dp: 3 predictors (δ13C_dic, Depth, Species)
